@@ -30,7 +30,7 @@
 
 
 <p align="center">
-<a target="_blank" href="linkedin.com/in/karen-lorhana-1848301aa/">
+<a target="_blank" href="https://linkedin.com/in/karen-lorhana-1848301aa/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="mailto:karen10lorhana@gmail.com">
