@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá 👋 </h1>
 
-<p align="center">Atualmente, estou no primeiro perído de Engenharia de Computação no Instituto Federal da Paraíba (IFPB) e sou completamente apaixonada por programação e inteligência artificial. No momento, estou trabalhando com desenvolvimento backend e frontend, estudando aprofundamente Node.js, além de estar engajada no uso de sistemas embarcados e Internet of Things (IoT).  Qualquer dúvida, sinta-se à vontade pra falar comigo :D </p>
+<p align="center">Atualmente, estou no primeiro perído de Engenharia de Computação no Instituto Federal da Paraíba (IFPB) e sou completamente apaixonada por programação e inteligência artificial. No momento, estou trabalhando com desenvolvimento backend e frontend, estudando aprofundamente Node.js, além de estar engajada no uso de sistemas embarcados e Internet of Things (IoT).  Qualquer dúvida, sinta-se à vontade para falar comigo :D </p>
 
 <br>
 
