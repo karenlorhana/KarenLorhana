@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="justify"> Linguagens e ferramentas: </h2>
+<h2 align="center"> Linguagens e ferramentas: </h2>
 
 
 
