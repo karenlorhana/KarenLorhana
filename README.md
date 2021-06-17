@@ -2,7 +2,7 @@
 
 <h1 align="center"> Olá 👋 </h1>
 
-<p align="center">Olá, me chamo a Karen e sou Técnica em Informática pela Escola Técnica Redentorista (ETER)
+<p align="justify">Olá, me chamo a Karen e sou Técnica em Informática pela Escola Técnica Redentorista (ETER)
                     desde 2018. Atualmente, estou no primeiro perído de Engenharia de Computação no Instituto Federal da Paraíba (IFPB) 
                     e sou completamente apaixonada por programação e inteligência artificial. </p>
                     <p align="center">No momento, estou estudando desenvolvimento web (backend e frontend) e me aprofundando em Node.js, além de
@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center"> Linguagens e ferramentas: </h2>
+<h2 align="justify"> Linguagens e ferramentas: </h2>
 
 
 
