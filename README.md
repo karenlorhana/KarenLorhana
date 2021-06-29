@@ -26,11 +26,16 @@
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
   
-</p>
+
 
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana)](https://github.com/anuraghazra/github-readme-stats)
 
+ <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  
+</p>
 
 <br>
 
