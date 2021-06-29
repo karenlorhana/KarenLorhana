@@ -25,9 +25,9 @@
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
-  
+  </p>
 
-
+<p align="center">
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana)](https://github.com/anuraghazra/github-readme-stats)
 
  <br>
