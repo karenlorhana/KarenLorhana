@@ -28,12 +28,14 @@
 
 <div align="center">
   
-[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana)](https://github.com/anuraghazra/github-readme-stats)
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true)
 
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+karenlorhana
   
 </div>
 
