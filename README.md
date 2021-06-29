@@ -27,7 +27,7 @@
  
   </p>
 
-<p align="center">
+<div align="center">
 [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana)](https://github.com/anuraghazra/github-readme-stats)
 
  <br>
@@ -35,7 +35,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
-</p>
+</div>
 
 <br>
 
