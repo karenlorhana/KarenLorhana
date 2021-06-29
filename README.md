@@ -28,7 +28,8 @@
   
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apikarenlorhana=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?karenlorhana&hide=contribs,prs)
+
 
 <br>
 
