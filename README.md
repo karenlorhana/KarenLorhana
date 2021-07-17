@@ -51,9 +51,6 @@ karenlorhana
 <a target="_blank" href="mailto:karen10lorhana@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 </a>
-<a target="_blank" href="https://www.instagram.com/karenlorhana/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-</a>
 
 </p>
 
