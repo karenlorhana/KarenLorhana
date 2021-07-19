@@ -26,7 +26,7 @@
  
  <br><br>
 
-<div>
+<div height="180em">
   
 ![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true)
 
