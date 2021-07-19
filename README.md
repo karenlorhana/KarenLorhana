@@ -26,10 +26,10 @@
  
  <br><br>
 
-<div height="180em">
-  
+<div >
+ <span height="180em">
 ![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true)
-
+  </span>
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
