@@ -28,11 +28,9 @@
 
 <div >
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true"/>
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
