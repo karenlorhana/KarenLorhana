@@ -26,14 +26,14 @@
  
  <br><br>
 
-<div >
+<div align="justify">
 
 ![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true)
 
 <br>
-<div  height="180em">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 </div>
 
 <br>
