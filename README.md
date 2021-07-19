@@ -28,7 +28,7 @@
 
 <div >
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical)]
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical"/>
 
 <br>
 
