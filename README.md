@@ -5,7 +5,7 @@
 <p align="justify">Olá, me chamo a Karen e sou Técnica em Informática pela Escola Técnica Redentorista (ETER)
                     desde 2018. Atualmente, estou no terceiro perído de Engenharia de Computação no Instituto Federal da Paraíba (IFPB) 
                     e sou completamente apaixonada por programação e inteligência artificial. </p>
-                    <p align="justify">Qualquer dúvida, sinta-se à vontade para falar comigo :D </p>
+                    <p align="center">Qualquer dúvida, sinta-se à vontade para falar comigo :D </p>
 
 <br>
 
