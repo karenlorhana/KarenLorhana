@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Olá 👋 </h1>
+<h1 align="center"> Oie 👋 </h1>
 
 <p align="justify">Olá, me chamo a Karen e sou Técnica em Informática pela Escola Técnica Redentorista (ETER)
                     desde 2018. Atualmente, estou no terceiro perído de Engenharia de Computação no Instituto Federal da Paraíba (IFPB) 
@@ -25,7 +25,7 @@
  
  <br><br>
 
-<div >
+<div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karenlorhana&theme=radical&show_icons=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenlorhana&layout=compact&theme=radical"/>
 
